@@ -1,0 +1,12 @@
+webhook_dict = {
+"webhook_1": "https://discordapp.com/api/webhooks/705257368874647652/zy8M3OQJhfhzTzo8YYdFcyWmgUrD6quPZNC98orBq1fvsThVAzM9891-8Iu4l578uzDB"
+
+}
+
+urldict = {
+"https://www.target.com/p/nintendo-switch-with-gray-joy-con/-/A-77464002": "webhook_1",
+"https://www.target.com/p/nintendo-switch-with-neon-blue-and-neon-red-joy-con/-/A-77464001": "webhook_1",
+"https://www.target.com/p/nintendo-switch-lite-turquoise/-/A-77419248": "webhook_1"
+"https://www.target.com/p/nintendo-switch-lite-coral/-/A-79574296": "webhook_1"
+"https://www.target.com/p/nintendo-switch-lite-coral/-/A-79574296": "webhook_1"
+}
